@@ -2,6 +2,8 @@
 
 A Claude Code skill for running a structured pre-submit checklist on a change before it goes out for review. It helps the author catch everything catchable before a reviewer ever looks, so the review focuses on substance rather than basics.
 
+![pr-presubmit skill in action](pr-presubmit.gif)
+
 ## What this skill does
 
 This skill walks you through three areas before you open a pull request:
